@@ -12,4 +12,4 @@
 по количеству потребляемых продуктов, обращая особое внимание на отток | Pandas, Matplotlib, Seaborn | --- |
 | Проект по А/B-тестированию | Провести оценку результатов A/B-теста | А/В тестирование, Python, Pandas, Matplotlib, Seaborn, Plotly | --- |
 | Проект по SQL | Проанализировать базу данных.
-В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта | SQL, JOIN, вложенные запросы, Pandas | [---](https://colab.research.google.com/drive/1egJv1UB3WQPPi7ia2mgvNcZ2KLkNJL04?usp=sharing)https://colab.research.google.com/drive/1egJv1UB3WQPPi7ia2mgvNcZ2KLkNJL04?usp=sharing |
+В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта | SQL, JOIN, вложенные запросы, Pandas | [---](https://colab.research.google.com/drive/1egJv1UB3WQPPi7ia2mgvNcZ2KLkNJL04?usp=sharing) |
