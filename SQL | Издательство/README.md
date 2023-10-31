@@ -1,5 +1,5 @@
 # SQL | Издательство
-[переходи по ссылке](https://colab.research.google.com/drive/1egJv1UB3WQPPi7ia2mgvNcZ2KLkNJL04?usp=sharing#scrollTo=mGsvM4-grsDj)
+[переходи по ссылке в Google Colab](https://colab.research.google.com/drive/1egJv1UB3WQPPi7ia2mgvNcZ2KLkNJL04?usp=sharing#scrollTo=mGsvM4-grsDj)
 ## Описание проекта 
 Ваша компания решила купила крупный сервис для чтения книг по подписке. Ваша первая задача как аналитика — проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
 
